@@ -1,3 +1,6 @@
+# 仅练手ai编程使用
+新人使用trae体验vibe coding做的开源项目，仅供各位参考学习，请勿商用
+
 # FightLord (斗地主)
 
 FightLord 是一个基于现代 Web 技术构建的多人在线斗地主游戏。项目采用前后端分离架构，后端使用 .NET 10 和 SignalR 实现实时通信，前端使用 React 18 构建用户界面。
