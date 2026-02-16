@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: FightLord.WebAPI/Dockerfile
+    environment:
+      # Redis 连接字符串，使用服务名称 redis
+      - ConnectionStrings__Redis=redis:6379
+      # JWT 配置，从环境变量读取
+      - Jwt__Key=${Jwt__Key}
+      - Jwt__Issuer=${Jwt__Issuer}
+      - Jwt__Audience=${Jwt__Audience}
+    ports:
+      - "5000:80" # 将后端 API 暴露在宿主机 5000 端口
+    networks:
+      - fightlord-net
+    depends_on:
+      - redis
+
+  frontend:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    ports:
+      - "80:80" # 将前端应用暴露在宿主机 80 端口
+    networks:
+      - fightlord-net
+    depends_on:
+      - backend
+
+  redis:
+    image: redis:alpine
+    networks:
+      - fightlord-net
+
+networks:
+  fightlord-net:
+    driver: bridge

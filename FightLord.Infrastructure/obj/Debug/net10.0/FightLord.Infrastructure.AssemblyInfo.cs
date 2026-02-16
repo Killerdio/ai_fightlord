@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FightLord.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f660a55a78b85cdf93ff2f3a0fc0970d28a677ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e31b5c86227b8d4911771d1916197537aaf8660")]
 [assembly: System.Reflection.AssemblyProductAttribute("FightLord.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FightLord.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

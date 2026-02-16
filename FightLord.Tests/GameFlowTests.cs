@@ -5,6 +5,7 @@ using FightLord.Core.Enums;
 using FightLord.Core.Interfaces;
 using FightLord.Infrastructure;
 using MediatR;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -21,8 +22,17 @@ namespace FightLord.Tests
         public GameFlowTests()
         {
             var services = new ServiceCollection();
+            
+            var configuration = new ConfigurationBuilder()
+                .AddInMemoryCollection(new Dictionary<string, string>
+                {
+                    {"Redis", "localhost:6379"},
+                    {"Jwt:Key", "ThisIsASecretKeyForTestingPurposeOnly123!"}
+                })
+                .Build();
+
             services.AddApplication();
-            services.AddInfrastructure();
+            services.AddInfrastructure(configuration);
             _serviceProvider = services.BuildServiceProvider();
         }
 

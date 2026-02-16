@@ -59,3 +59,10 @@ E:\program\ai\ai_fightlord\FightLord.WebAPI\bin\Debug\net10.0\FightLord.WebAPI.s
 E:\program\ai\ai_fightlord\FightLord.WebAPI\obj\Debug\net10.0\compressed\3c3ui3k4ln-{0}-6140cbolhy-6140cbolhy.gz
 E:\program\ai\ai_fightlord\FightLord.WebAPI\obj\Debug\net10.0\compressed\qdinws8cai-{0}-v7761wczpu-v7761wczpu.gz
 E:\program\ai\ai_fightlord\FightLord.WebAPI\obj\Debug\net10.0\compressed\ed9ed1jxhz-{0}-2f032nu8v0-2f032nu8v0.gz
+E:\program\ai\ai_fightlord\FightLord.WebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\program\ai\ai_fightlord\FightLord.WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\program\ai\ai_fightlord\FightLord.WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\program\ai\ai_fightlord\FightLord.WebAPI\bin\Debug\net10.0\Pipelines.Sockets.Unofficial.dll
+E:\program\ai\ai_fightlord\FightLord.WebAPI\bin\Debug\net10.0\StackExchange.Redis.dll
+E:\program\ai\ai_fightlord\FightLord.WebAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\program\ai\ai_fightlord\FightLord.WebAPI\bin\Debug\net10.0\System.IO.Hashing.dll

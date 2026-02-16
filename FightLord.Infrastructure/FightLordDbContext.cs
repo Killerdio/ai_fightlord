@@ -7,6 +7,8 @@ namespace FightLord.Infrastructure
 {
     public class FightLordDbContext : DbContext
     {
+        public DbSet<User> Users { get; set; }
+        public DbSet<Room> Rooms { get; set; }
         public DbSet<Player> Players { get; set; }
         public DbSet<Card> Cards { get; set; }
         public DbSet<GameState> GameStates { get; set; }
