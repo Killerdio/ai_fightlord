@@ -13,3 +13,4 @@ E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.App
 E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\refint\FightLord.Application.dll
 E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.Application.pdb
 E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\ref\FightLord.Application.dll
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.Application.sourcelink.json

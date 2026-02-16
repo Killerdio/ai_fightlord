@@ -15,3 +15,4 @@ E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.
 E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\refint\FightLord.Infrastructure.dll
 E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.Infrastructure.pdb
 E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\ref\FightLord.Infrastructure.dll
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.Infrastructure.sourcelink.json

@@ -119,3 +119,9 @@ E:\program\ai\ai_fightlord\FightLord.Tests\obj\Debug\net10.0\refint\FightLord.Te
 E:\program\ai\ai_fightlord\FightLord.Tests\obj\Debug\net10.0\FightLord.Tests.pdb
 E:\program\ai\ai_fightlord\FightLord.Tests\obj\Debug\net10.0\FightLord.Tests.genruntimeconfig.cache
 E:\program\ai\ai_fightlord\FightLord.Tests\obj\Debug\net10.0\ref\FightLord.Tests.dll
+E:\program\ai\ai_fightlord\FightLord.Tests\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\program\ai\ai_fightlord\FightLord.Tests\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\program\ai\ai_fightlord\FightLord.Tests\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\program\ai\ai_fightlord\FightLord.Tests\bin\Debug\net10.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\program\ai\ai_fightlord\FightLord.Tests\bin\Debug\net10.0\Microsoft.Extensions.Caching.Memory.dll
+E:\program\ai\ai_fightlord\FightLord.Tests\obj\Debug\net10.0\FightLord.Tests.sourcelink.json

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FightLord Desktop</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="desktop">
+        <!-- Taskbar -->
+        <div id="taskbar">
+            <div id="start-menu-btn">Start</div>
+            <div id="taskbar-apps">
+                <!-- Taskbar items will be dynamically added here -->
+            </div>
+            <div id="clock">12:00 PM</div>
+        </div>
+
+        <!-- Game Window -->
+        <div id="game-window" class="window" style="display: none;">
+            <div class="window-header">
+                <span class="window-title">FightLord Game</span>
+                <div class="window-controls">
+                    <button class="minimize-btn">-</button>
+                    <button class="maximize-btn">□</button>
+                    <button class="close-btn">×</button>
+                </div>
+            </div>
+            <div class="window-content">
+                <div id="game-ui">
+                    <div id="game-status">Waiting for game to start...</div>
+                    <div id="player-hand" class="cards-container">
+                        <!-- Cards will be rendered here -->
+                    </div>
+                    <div id="game-controls">
+                        <button id="start-game-btn">Start Game</button>
+                        <button id="bid-btn" disabled>Bid</button>
+                        <button id="play-btn" disabled>Play</button>
+                        <button id="pass-btn" disabled>Pass</button>
+                    </div>
+                    <div id="game-info">
+                        <p>Current Turn: <span id="current-turn">-</span></p>
+                        <p>Last Move: <span id="last-move">-</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Desktop Icons -->
+        <div id="desktop-icons">
+            <div class="desktop-icon" ondblclick="openGameWindow()">
+                <div class="icon-img">♠</div>
+                <div class="icon-label">FightLord</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

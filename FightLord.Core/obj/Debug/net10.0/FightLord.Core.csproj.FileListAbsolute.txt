@@ -9,3 +9,4 @@ E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\FightLord.Core.dll
 E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\refint\FightLord.Core.dll
 E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\FightLord.Core.pdb
 E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\ref\FightLord.Core.dll
+E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\FightLord.Core.sourcelink.json

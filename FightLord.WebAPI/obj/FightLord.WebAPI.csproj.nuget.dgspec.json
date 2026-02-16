@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\FightLord.WebAPI.csproj": {}
+    "E:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\FightLord.WebAPI.csproj": {}
   },
   "projects": {
-    "e:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj": {
+    "E:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj",
+        "projectUniqueName": "E:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj",
         "projectName": "FightLord.Application",
-        "projectPath": "e:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj",
+        "projectPath": "E:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "e:\\program\\ai\\ai_fightlord\\FightLord.Application\\obj\\",
+        "outputPath": "E:\\program\\ai\\ai_fightlord\\FightLord.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "e:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj": {
-                "projectPath": "e:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj"
+              "E:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj": {
+                "projectPath": "E:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj"
               }
             }
           }
@@ -54,6 +54,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[14.0.0, )"
@@ -353,14 +361,14 @@
         }
       }
     },
-    "e:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj": {
+    "E:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj",
+        "projectUniqueName": "E:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj",
         "projectName": "FightLord.Core",
-        "projectPath": "e:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj",
+        "projectPath": "E:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "e:\\program\\ai\\ai_fightlord\\FightLord.Core\\obj\\",
+        "outputPath": "E:\\program\\ai\\ai_fightlord\\FightLord.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -720,11 +728,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "e:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj": {
-                "projectPath": "e:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj"
+              "E:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj": {
+                "projectPath": "E:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj"
               },
-              "e:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj": {
-                "projectPath": "e:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj"
+              "E:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj": {
+                "projectPath": "E:\\program\\ai\\ai_fightlord\\FightLord.Core\\FightLord.Core.csproj"
               }
             }
           }
@@ -745,6 +753,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[10.0.3, )"
@@ -1056,14 +1072,14 @@
         }
       }
     },
-    "e:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\FightLord.WebAPI.csproj": {
+    "E:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\FightLord.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\FightLord.WebAPI.csproj",
+        "projectUniqueName": "E:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\FightLord.WebAPI.csproj",
         "projectName": "FightLord.WebAPI",
-        "projectPath": "e:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\FightLord.WebAPI.csproj",
+        "projectPath": "E:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\FightLord.WebAPI.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "e:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\obj\\",
+        "outputPath": "E:\\program\\ai\\ai_fightlord\\FightLord.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1084,8 +1100,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "e:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj": {
-                "projectPath": "e:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj"
+              "E:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj": {
+                "projectPath": "E:\\program\\ai\\ai_fightlord\\FightLord.Application\\FightLord.Application.csproj"
               },
               "E:\\program\\ai\\ai_fightlord\\FightLord.Infrastructure\\FightLord.Infrastructure.csproj": {
                 "projectPath": "E:\\program\\ai\\ai_fightlord\\FightLord.Infrastructure\\FightLord.Infrastructure.csproj"
