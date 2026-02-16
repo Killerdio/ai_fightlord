@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FightLord.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e31b5c86227b8d4911771d1916197537aaf8660")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+765c4ac5b46602adff1f316f4cab8b2760025814")]
 [assembly: System.Reflection.AssemblyProductAttribute("FightLord.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FightLord.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
