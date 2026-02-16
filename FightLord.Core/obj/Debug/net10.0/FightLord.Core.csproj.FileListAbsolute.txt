@@ -1,0 +1,11 @@
+E:\program\ai\ai_fightlord\FightLord.Core\bin\Debug\net10.0\FightLord.Core.deps.json
+E:\program\ai\ai_fightlord\FightLord.Core\bin\Debug\net10.0\FightLord.Core.dll
+E:\program\ai\ai_fightlord\FightLord.Core\bin\Debug\net10.0\FightLord.Core.pdb
+E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\FightLord.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\FightLord.Core.AssemblyInfoInputs.cache
+E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\FightLord.Core.AssemblyInfo.cs
+E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\FightLord.Core.csproj.CoreCompileInputs.cache
+E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\FightLord.Core.dll
+E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\refint\FightLord.Core.dll
+E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\FightLord.Core.pdb
+E:\program\ai\ai_fightlord\FightLord.Core\obj\Debug\net10.0\ref\FightLord.Core.dll

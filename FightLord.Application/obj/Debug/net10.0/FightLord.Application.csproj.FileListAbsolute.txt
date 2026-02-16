@@ -1,0 +1,15 @@
+E:\program\ai\ai_fightlord\FightLord.Application\bin\Debug\net10.0\FightLord.Application.deps.json
+E:\program\ai\ai_fightlord\FightLord.Application\bin\Debug\net10.0\FightLord.Application.dll
+E:\program\ai\ai_fightlord\FightLord.Application\bin\Debug\net10.0\FightLord.Application.pdb
+E:\program\ai\ai_fightlord\FightLord.Application\bin\Debug\net10.0\FightLord.Core.dll
+E:\program\ai\ai_fightlord\FightLord.Application\bin\Debug\net10.0\FightLord.Core.pdb
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.Application.csproj.AssemblyReference.cache
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.Application.AssemblyInfoInputs.cache
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.Application.AssemblyInfo.cs
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.Application.csproj.CoreCompileInputs.cache
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLor.80CF548B.Up2Date
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.Application.dll
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\refint\FightLord.Application.dll
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\FightLord.Application.pdb
+E:\program\ai\ai_fightlord\FightLord.Application\obj\Debug\net10.0\ref\FightLord.Application.dll

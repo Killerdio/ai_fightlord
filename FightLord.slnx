@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FightLord.Application/FightLord.Application.csproj" />
+  <Project Path="FightLord.Core/FightLord.Core.csproj" />
+  <Project Path="FightLord.Infrastructure/FightLord.Infrastructure.csproj" />
+  <Project Path="FightLord.Tests/FightLord.Tests.csproj" />
+  <Project Path="FightLord.WebAPI/FightLord.WebAPI.csproj" />
+</Solution>

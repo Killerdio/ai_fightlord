@@ -1,0 +1,17 @@
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.Infrastructure.csproj.AssemblyReference.cache
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.Infrastructure.AssemblyInfoInputs.cache
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.Infrastructure.AssemblyInfo.cs
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.Infrastructure.csproj.CoreCompileInputs.cache
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\bin\Debug\net10.0\FightLord.Infrastructure.deps.json
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\bin\Debug\net10.0\FightLord.Infrastructure.dll
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\bin\Debug\net10.0\FightLord.Infrastructure.pdb
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\bin\Debug\net10.0\FightLord.Application.dll
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\bin\Debug\net10.0\FightLord.Core.dll
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\bin\Debug\net10.0\FightLord.Application.pdb
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\bin\Debug\net10.0\FightLord.Core.pdb
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLor.4E5B95A5.Up2Date
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.Infrastructure.dll
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\refint\FightLord.Infrastructure.dll
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\FightLord.Infrastructure.pdb
+E:\program\ai\ai_fightlord\FightLord.Infrastructure\obj\Debug\net10.0\ref\FightLord.Infrastructure.dll

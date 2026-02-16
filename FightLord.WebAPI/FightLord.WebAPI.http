@@ -1,0 +1,6 @@
+@FightLord.WebAPI_HostAddress = http://localhost:5197
+
+GET {{FightLord.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
